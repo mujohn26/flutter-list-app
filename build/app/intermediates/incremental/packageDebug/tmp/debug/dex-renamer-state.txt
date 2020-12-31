@@ -1,4 +1,4 @@
-#Thu Dec 31 13:58:58 CAT 2020
+#Thu Dec 31 14:51:53 CAT 2020
 base.0=/home/john/Documents/mixed-projects/flutter-list-app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
